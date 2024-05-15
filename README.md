@@ -37,7 +37,7 @@ It fetches current weather data from an open API and displays it to the user.
 
 Clone this repository to your local machine:
 ```
-git clone https://github.com/ahmednassar/Weather-application.git
+git clone https://github.com/AhmedNassar7/Weather-application.git
 ```
 Install the project dependencies:
 ```
