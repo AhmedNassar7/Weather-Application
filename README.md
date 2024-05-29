@@ -16,7 +16,7 @@
 This is a simple weather application built using React and Material-UI. 
 It fetches current weather data from an open API and displays it to the user.
 
-## 💻 Technology <a name = "technolgies"></a>
+## 💻 Technology <a name = "technologies"></a>
 ## Technologies Used
 
 - ![React](https://img.shields.io/badge/React-%2300599C.svg?style=for-the-badge&logo=react&logoColor=white) - A JavaScript library for building user interfaces. [Learn more](https://reactjs.org/)
@@ -37,7 +37,7 @@ It fetches current weather data from an open API and displays it to the user.
 
 Clone this repository to your local machine:
 ```
-git clone https://github.com/AhmedNassar7/Weather-application.git
+git clone https://github.com/AhmedNassar7/Weather-Application.git
 ```
 Install the project dependencies:
 ```
