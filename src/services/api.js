@@ -15,7 +15,7 @@ try {
 export const getAllCountries = async () => {
     try {
       const response = await axios.get('https://countriesnow.space/api/v0.1/countries');
-      console.log('nada', response);
+      console.log('nassar', response);
       return response.data;
     } catch (error) {
       console.error('Error fetching countries:', error);
